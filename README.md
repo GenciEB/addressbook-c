@@ -12,3 +12,6 @@ A simple command-line address book written in C.
 ```bash
 gcc addressbook.c -o addressbook
 ./addressbook
+
+Author 
+Genc Balisha
